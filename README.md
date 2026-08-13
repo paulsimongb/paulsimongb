@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @paulsimongb
 - 👀 I’m interested in tackling Climate Change
-- 🌱 I’m currently learning React, Vue 3, Power BI, Azure Data Factory
-- I have experience with in 
+- 🌱 - I have experience with in 
 - IBM Cognos TM1 aka Planning Analytics 
 - Data Warehousing
-- Vue 2
+- Python
+  React
+- VueJS
 - NodeJS 
 - C#
 - SQL Server
