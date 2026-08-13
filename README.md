@@ -4,7 +4,7 @@
 - IBM Cognos TM1 aka Planning Analytics 
 - Data Warehousing
 - Python
-  React
+- React
 - VueJS
 - NodeJS 
 - C#
